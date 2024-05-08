@@ -1,4 +1,4 @@
-# Quick-Response Dynamic Obstacle Avoidance Strategy[^1^][1]
+# Quick-Response Dynamic Obstacle Avoidance Strategy
 
 ## Introduction
 This project presents a **few-shot dynamic obstacle avoidance technique** for mobile robots in unknown environments, leveraging advancements in deep learning algorithms and mobile platforms[^2^][2].
